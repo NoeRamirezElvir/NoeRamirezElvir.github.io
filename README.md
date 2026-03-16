@@ -1,24 +1,14 @@
-## 🚀 Next Steps
-
-1. ❌ **Update repository name to `NoeRamirezElvir.github.io`** (Current: `NoeRamirezELvir.github.io`)
-2. **Update [`config.json`](https://github.com/NoeRamirezElvir/NoeRamirezELvir.github.io/blob/main/config.json)** with your personal information, experience, and projects and then run [this workflow](https://github.com/NoeRamirezElvir/NoeRamirezELvir.github.io/actions/workflows/update-readme.yml) to update the README
-3. **Replace assets** in the [`assets/`](https://github.com/NoeRamirezElvir/NoeRamirezELvir.github.io/tree/main/assets/) folder with your own logos and project images
-4. **Add "featured" topic** to [GitHub repositories](https://github.com/NoeRamirezElvir?tab=repositories) you want to showcase
-5. **Enable GitHub Pages** in [repository settings](https://github.com/NoeRamirezElvir/NoeRamirezELvir.github.io/settings/pages) to make your portfolio live
-6. **Customize further** by adding more content
-
----
-
-# Noe Ramirez - Developer Portfolio
+# Noé Ramírez Elvir - Developer Portfolio
 
 <div align="left">
   
 [![Portfolio](https://img.shields.io/badge/🌐_Visit_Portfolio-Live-brightgreen?style=for-the-badge)](https://NoeRamirezElvir.github.io/NoeRamirezELvir.github.io)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/NoeRamirezElvir)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/noe-bladimir-ramirez-elvir-49b96b256)
 
 </div>
 
-Welcome to my developer portfolio! This website showcases my projects, skills, and professional journey.
+The live portfolio includes detailed professional experience, technical skills and certifications, featured projects and achievements.
 
 ## ✨ Features
 
@@ -43,10 +33,11 @@ Welcome to my developer portfolio! This website showcases my projects, skills, a
 
 ## 🤝 Connect
 
-Let's connect and build something amazing together!
+¿Buscas un desarrollador versátil y apasionado? ¡Hablemos!
 
 - 🌐 **Portfolio**: [https://NoeRamirezElvir.github.io/NoeRamirezELvir.github.io](https://NoeRamirezElvir.github.io/NoeRamirezELvir.github.io)
 - 💻 **GitHub**: [https://github.com/NoeRamirezElvir](https://github.com/NoeRamirezElvir)
+- 🔗 **LinkedIn**: [https://www.linkedin.com/in/noe-bladimir-ramirez-elvir-49b96b256](https://www.linkedin.com/in/noe-bladimir-ramirez-elvir-49b96b256)
 
 ---
 
