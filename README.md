@@ -8,19 +8,6 @@
 
 </div>
 
-The live portfolio includes detailed professional experience, technical skills and certifications, featured projects and achievements.
-
-## ✨ Features
-
-- 🎨 **Modern Design** - Clean, responsive interface with dark/light theme support
-- 🚀 **Performance Optimized** - Fast loading with vanilla JavaScript
-- 📱 **Mobile First** - Fully responsive across all devices
-- 🔄 **Auto-Updated** - Content dynamically generated from `config.json`
-- 🎭 **Interactive** - Smooth animations and engaging user experience
-- 🌓 **Dark/Light Mode** - Smooth transitions with persistent preferences
-- 🔗 **Dynamic Social Links** - Configurable social media and professional links
-- ⚙️ **Zero Code Changes** - Everything configured through JSON
-
 ## 📈 GitHub Stats
 
 <div align="left">
