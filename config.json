@@ -58,19 +58,19 @@
         "name": "🏭 PLANTA DE BIOCOMBUSTIBLES: Sistema Integral de Inventario Líquido",
         "date": "2025",
         "description": [
-          "**Proyecto completo para empresa de biocombustibles** que transformó la gestión de inventario de aceite como combustible alterno.",
+          "Proyecto completo para empresa de biocombustibles que transformó la gestión de inventario de aceite como combustible alterno.",
           "",
-          "**🎯 El desafío:** La empresa necesitaba gestionar tanques de almacenamiento de aceite con dimensiones variables y cálculos de volumen específicos, algo que Odoo estándar no manejaba.",
+          "🎯 El desafío: La empresa necesitaba gestionar tanques de almacenamiento de aceite con dimensiones variables y cálculos de volumen específicos, algo que Odoo estándar no manejaba.",
           "",
-          "**✅ Mi solución integral:**",
+          "✅ Mi solución integral:",
           "• Configuré tanques como ubicaciones especiales con campos personalizados (diámetro, altura, forma) y cálculo automático de volumen",
           "• Automatizé transferencias entre ubicaciones al confirmar compras y ventas (Siempre y cuando cumplan los controles de calidad desarrollados)",
           "• Implementé controles de porcentaje de llenado y reportes diarios",
           "• Creé sistema de auditoría para trazabilidad completa de movimientos",
           "",
-          "**📊 Resultados:** Mejora en la gestión logística de inventario líquido y reportes técnicos para supervisión operativa en tiempo real.",
+          "📊 Resultados: Mejora en la gestión logística de inventario líquido y reportes técnicos para supervisión operativa en tiempo real.",
           "",
-          "*A continuación, los 3 componentes principales de este proyecto:*"
+          "A continuación, los 3 componentes principales de este proyecto:"
         ],
         "technologies": ["Python", "Odoo 17", "PostgreSQL", "XML", "JavaScript"]
       },
@@ -80,7 +80,7 @@
         "description": [
           "Implementación de cálculo automático de volumen en tanques de almacenamiento basado en dimensiones (diámetro, altura, forma).",
           "",
-          "**🔧 Detalle técnico:**",
+          "🔧 Detalle técnico:",
           "• Creación de modelos personalizados en Odoo para representar tanques",
           "• Campos computados para volumen basado en geometría del tanque",
           "• Validaciones para asegurar precisión en los cálculos"
@@ -94,7 +94,7 @@
         "description": [
           "Desarrollo de reportes técnicos diarios para supervisión operativa y control de inventario líquido.",
           "",
-          "**📋 Lo que incluí:**",
+          "📋 Lo que incluí:",
           "• Reportes diarios de porcentaje de llenado",
           "• Historial completo de movimientos por tanque",
           "• Sistema de auditoría para trazabilidad total"
@@ -108,7 +108,7 @@
         "description": [
           "Herramienta interactiva para cálculo de porcentaje de llenado y gestión de ubicaciones especiales.",
           "",
-          "**💡 Características:**",
+          "💡 Características:",
           "• Interfaz intuitiva para operadores",
           "• Cálculos en tiempo real",
           "• Integración con el sistema de inventario"
@@ -120,18 +120,18 @@
         "name": "💰 GESTIÓN COBRANZAS: Módulo de Acuerdos de Pago",
         "date": "2024",
         "description": [
-          "**Módulo innovador para gestionar planes y acuerdos de pago** adaptados a las necesidades específicas de cada cliente, integrado con el sistema Helpdesk de Odoo.",
+          "Módulo innovador para gestionar planes y acuerdos de pago adaptados a las necesidades específicas de cada cliente, integrado con el sistema Helpdesk de Odoo.",
           "",
-          "**🎯 Objetivo principal:** Facilitar el control de cuotas, seguimiento de pagos y administración de información del cliente desde una interfaz unificada.",
+          "🎯 Objetivo principal: Facilitar el control de cuotas, seguimiento de pagos y administración de información del cliente desde una interfaz unificada.",
           "",
-          "**✅ Mi solución integral:**",
+          "✅ Mi solución integral:",
           "• Modelos personalizados para arreglos de pago, cuotas y etapas",
           "• Generación automática de cuotas con cálculos financieros",
           "• Wizard con ventanas emergentes para confirmaciones",
           "• Vistas kanban, lista, formulario y gráfica",
           "• Automatización de estados según progreso de pagos",
           "",
-          "**📊 Resultado:** Proceso de cobranzas optimizado con experiencia de usuario fluida.",
+          "📊 Resultado: Proceso de cobranzas optimizado con experiencia de usuario fluida.",
           "",
           "*A continuación, los componentes principales de este proyecto:*"
         ],
@@ -141,9 +141,9 @@
         "name": "🔄 [Cobranzas] Generación Automática",
         "date": "2024",
         "description": [
-          "**Lógica de negocio para generación de cuotas y ventanas emergentes de confirmación.**",
+          "Lógica de negocio para generación de cuotas y ventanas emergentes de confirmación.",
           "",
-          "**✨ Funcionalidades:**",
+          "✨ Funcionalidades:",
           "• Botón que calcula automáticamente cuotas basado en adeudo total y número seleccionado",
           "• Wizard implementado con estructura de ventana emergente en Odoo",
           "• Confirmación al regenerar cuotas para evitar errores",
@@ -157,9 +157,9 @@
         "name": "📊 [Cobranzas] Automatización de Estados",
         "date": "2024",
         "description": [
-          "**Sistema inteligente que actualiza automáticamente el estado del caso según los pagos.**",
+          "Sistema inteligente que actualiza automáticamente el estado del caso según los pagos.",
           "",
-          "**⚙️ Lógica implementada:**",
+          "⚙️ Lógica implementada:",
           "• Si todas las cuotas han sido pagadas → estado cambia a 'Completado'",
           "• Si hay cuotas pendientes → estado permanece en 'En Proceso'",
           "• Validaciones para garantizar transiciones correctas",
@@ -173,7 +173,7 @@
         "description": [
           "**Tabla interactiva que muestra todas las cuotas del plan de pago con funcionalidades avanzadas.**",
           "",
-          "**✨ Características:**",
+          "✨ Características:",
           "• Visualización de montos, fechas de vencimiento y estado (pagada/pendiente)",
           "• Interacción con fechas de cuotas generadas",
           "• Validaciones automáticas que cambian el estado del arreglo",
@@ -187,14 +187,14 @@
         "description": [
           "**Diseño completo de interfaces para una experiencia de usuario óptima.**",
           "",
-          "**🎨 Vistas desarrolladas:**",
-          "• **Kanban:** Agrupa casos por estado con información clave visible en tarjetas",
-          "• **Lista:** Visión general de todos los casos para análisis rápido",
-          "• **Formulario:** Gestión detallada con cuotas, descuentos y toda la información",
-          "• **Gráfica:** Análisis estadístico de casos (cantidad, estado, prioridad)",
-          "• **Búsqueda:** Filtros avanzados y opciones de agrupación",
+          "🎨 Vistas desarrolladas:",
+          "• Kanban: Agrupa casos por estado con información clave visible en tarjetas",
+          "• Lista: Visión general de todos los casos para análisis rápido",
+          "• Formulario: Gestión detallada con cuotas, descuentos y toda la información",
+          "• Gráfica: Análisis estadístico de casos (cantidad, estado, prioridad)",
+          "• Búsqueda: Filtros avanzados y opciones de agrupación",
           "",
-          "**➕ Valor añadido:** Menú 'Cobranzas' integrado dentro de Helpdesk, acción que reúne todas las vistas permitiendo alternar fácilmente"
+          "➕ Valor añadido: Menú 'Cobranzas' integrado dentro de Helpdesk, acción que reúne todas las vistas permitiendo alternar fácilmente"
         ],
         "technologies": ["XML", "UI/UX", "Vistas Odoo"],
         "picture": "assets/projects/cobranzas-vistas.png"
@@ -203,19 +203,19 @@
         "name": "💱 TASA DE CAMBIO BCH: Sistema de Actualización Automática",
         "date": "2024",
         "description": [
-          "**Proyecto completo de automatización** de la actualización diaria de la tasa de cambio USD/HNL mediante integración con la API del Banco Central de Honduras.",
+          "Proyecto completo de automatización de la actualización diaria de la tasa de cambio USD/HNL mediante integración con la API del Banco Central de Honduras.",
           "",
-          "**🎯 El desafío:** La empresa necesitaba actualizar manualmente la tasa de cambio cada día. La documentación de la API del BCH no era clara, lo que requirió investigación y pruebas exhaustivas.",
+          "🎯 El desafío: La empresa necesitaba actualizar manualmente la tasa de cambio cada día. La documentación de la API del BCH no era clara, lo que requirió investigación y pruebas exhaustivas.",
           "",
-          "**✅ Mi solución integral:**",
+          "✅ Mi solución integral:",
           "• Registro y pruebas con la API del BCH hasta identificar los parámetros correctos",
           "• Desarrollo de módulo Odoo que conecta, obtiene y almacena tasas de compra/venta",
           "• Automatización diaria sin intervención manual",
           "• Manejo robusto de errores y validaciones anti-duplicados",
           "",
-          "**📊 Resultados:** Proceso contable automatizado con datos precisos y trazables diariamente.",
+          "📊 Resultados: Proceso contable automatizado con datos precisos y trazables diariamente.",
           "",
-          "*A continuación, los 3 componentes principales de este proyecto:*"
+          "A continuación, los 3 componentes principales de este proyecto:"
         ],
         "technologies": ["Python", "Odoo 17", "API REST", "PostgreSQL", "XML"]
       },
@@ -225,7 +225,7 @@
         "description": [
           "**Creación de la estructura base del módulo y automatización completa del proceso.**",
           "",
-          "**📋 Lo que incluí:**",
+          "📋 Lo que incluí:",
           "• Estructura de carpetas y archivos del módulo Odoo",
           "• Acción programada registrada en data/ que actualiza automáticamente cada día",
           "• Configuración de modelo, tiempo de ejecución y método a ejecutar",
@@ -238,9 +238,9 @@
         "name": "💾 [Tasa BCH] Modelo de Datos y Validaciones",
         "date": "2024-2025",
         "description": [
-          "**Almacenamiento confiable y validaciones para garantizar integridad de datos financieros.**",
+          "Almacenamiento confiable y validaciones para garantizar integridad de datos financieros.",
           "",
-          "**🔐 Características:**",
+          "🔐 Características:",
           "• Integración directa con modelo de monedas de Odoo",
           "• Registro con marca de fecha para trazabilidad completa",
           "• Validaciones para evitar duplicados (no permitir dos tasas el mismo día)",
